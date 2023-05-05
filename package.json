@@ -1,0 +1,21 @@
+{
+  "name": "orora-theme",
+  "displayName": "Orora Theme",
+  "description": "A simple theme with good colors choices for better legibility",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orora Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orora Theme-color-theme.json"
+      }
+    ]
+  }
+}
