@@ -1,4 +1,4 @@
-# orora README
+# Orora Theme
 
 ## Working with Markdown
 
