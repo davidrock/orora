@@ -1,12 +1,12 @@
 {
   "name": "orora-theme",
   "displayName": "Orora Theme",
-  "description": "A simple theme with good colors choices for better legibility",
+  "description": "A decent theme with good colors choices for better legibility in frameworks Angular, Reactjs and Vue",
   "repository": {
     "url": "https://github.com/davidrock/vscode-orora-theme"
   },
   "publisher": "davidrock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.78.0"
   },
