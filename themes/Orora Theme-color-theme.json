@@ -1379,7 +1379,7 @@
       "name": "TEXT HTML",
       "scope": [],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#0dc300"
       }
     },
     {
@@ -1392,7 +1392,7 @@
         "entity.name.tag.template.html"
       ],
       "settings": {
-        "foreground": "#8146FE"
+        "foreground": "#14c184"
       }
     },
     {

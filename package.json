@@ -2,6 +2,10 @@
   "name": "orora-theme",
   "displayName": "Orora Theme",
   "description": "A simple theme with good colors choices for better legibility",
+  "repository": {
+    "url": "https://github.com/davidrock/vscode-orora-theme"
+  },
+  "publisher": "davidrock",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
