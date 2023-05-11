@@ -74,7 +74,13 @@
     "peekViewTitle.background": "#1B1D23",
     "peekViewEditor.background": "#1B1D23"
   },
+  "semanticHighlighting": true,
   "tokenColors": [
+    {
+      "name": "js/ts property",
+      "scope": "variable.other.property.js",
+      "settings": { "foreground": "#00ff00" }
+    },
     {
       "name": "support.constant.edge",
       "scope": "support.constant.edge",
@@ -559,7 +565,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#EF596F"
+        "foreground": "#cecece"
       }
     },
     {
@@ -1487,6 +1493,34 @@
       "settings": {
         "foreground": "#505050"
       }
-    }
+    },
+    {
+      "name": "JSON property",
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#7cef59"
+      }
+    },
+    {
+      "name": "TS/JS inner functions",
+      "scope": "entity.name.function.ts",
+      "settings": {
+        "foreground": "#00ffa6"
+      }
+    },
+    {
+      "name": "TS/JS Member Name Function",
+      "scope": "entity.name.function, meta.require, support.function.any-method",
+      "settings": {
+        "foreground": "#7abcf0"
+      }
+    },
+    {
+      "name": "TS/JS Imports",
+      "scope": "variable.other.readwrite",
+      "settings": {
+        "foreground": "#e6e6e6"
+      }
+    },
   ]
 }
