@@ -1498,7 +1498,28 @@
       "name": "JSON property",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#7cef59"
+        "foreground": "#c1c1c1"
+      }
+    },
+    {
+      "name": "JSON prop ponctuation",
+      "scope": "support.type.property-name.json punctuation, punctuation.support.type.property-name.begin.json, punctuation.support.type.property-name.end.json",
+      "settings": {
+        "foreground": "#9a8db4"
+      }
+    },
+    {
+      "name": "JSON value ponctuation",
+      "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
+      "settings": {
+        "foreground": "#77cfd9"
+      }
+    },
+    {
+      "name": "JSON value cor",
+      "scope": "string.quoted.double.json",
+      "settings": {
+        "foreground": "#40ac64"
       }
     },
     {
